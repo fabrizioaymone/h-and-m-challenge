@@ -2,7 +2,7 @@
 
 # Titanic ML Challenge
 
-Two Python notebooks containing two models proposed for the [H&M](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/) challenge hosted on Kaggle.
+Python notebooks containing two models proposed for the [H&M](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/) challenge hosted on Kaggle.
 
 ## Goal
   
