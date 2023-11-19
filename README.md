@@ -1,7 +1,5 @@
 #  H&M Personalized Fashion Recommendations
 
-# Titanic ML Challenge
-
 Python notebooks containing two models proposed for the [H&M](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/) challenge hosted on Kaggle.
 
 ## Goal
